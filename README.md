@@ -29,7 +29,7 @@ This code is covered by the BSD 3-Clause License:
 
 > BSD 3-Clause License
 >
-> Copyright (c) 2023 Benedikt Böck.
+> Copyright (c) 2024 Benedikt Böck.
 > All rights reserved.
 >
 > Redistribution and use in source and binary forms, with or without
