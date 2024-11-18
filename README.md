@@ -15,9 +15,8 @@ If you are using this code for your research, please cite
 
 ```bibtex
 
-@inproceedings{
-	b{\"o}ck2024sparse,
-	title={Sparse Bayesian Generative Modeling for Compressive Sensing},
+@inproceedings{boeck2024sparse,
+	title={Sparse {B}ayesian Generative Modeling for Compressive Sensing},
 	author={Benedikt B{\"o}ck and Sadaf Syed and Wolfgang Utschick},
 	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
 	year={2024},
