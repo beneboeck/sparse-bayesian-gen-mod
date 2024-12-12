@@ -1,6 +1,8 @@
 # Sparse Bayesian Generative Modeling for Compressive Sensing
 
-Welcome to the (preliminary) repository for the paper "Sparse Bayesian Generative Modeling for Compressive Sensing"! The code is currently in the process of preperation and may change continuously.
+Welcome to the (preliminary) repository for the paper "Sparse Bayesian Generative Modeling for Compressive Sensing"! The code is currently in the process of preperation and may change continuously. 
+
+The code will be uploaded during the week of December 16-22.
 
 ## Abstract
 
