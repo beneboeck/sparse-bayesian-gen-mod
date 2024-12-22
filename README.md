@@ -4,9 +4,10 @@ Welcome to the repository for the paper "Sparse Bayesian Generative Modeling for
 
 Source code of the paper 
 >B. Böck, S. Syed, and W. Utschick,
->"Sparse Bayesian Generative Modeling for Compressive Sensing," in IEEE Wireless Communications Letters, 2024.
+>"Sparse Bayesian Generative Modeling for Compressive Sensing," in Advances in
+Neural Information Processing Systems, vol. 38, 2024.
 <br>
-Link to the paper: https://ieeexplore.ieee.org/document/10705115
+Link to the paper: https://openreview.net/forum?id=GqefKjw1OR
 
 
 ## Abstract
