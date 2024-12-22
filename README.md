@@ -1,5 +1,4 @@
-# Sparse Bayesian Generative Modeling for Compressive Sensing
-
+# Sparse Bayesian Generative Modeling
 Welcome to the repository for the paper "Sparse Bayesian Generative Modeling for Compressive Sensing"! The repository might be extended in the future.
 
 Source code of the paper 
