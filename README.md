@@ -1,19 +1,26 @@
 # Sparse Bayesian Generative Modeling for Compressive Sensing
 
-Welcome to the (preliminary) repository for the paper "Sparse Bayesian Generative Modeling for Compressive Sensing"! The code is currently in the process of preperation and may change continuously. 
+Welcome to the repository for the paper "Sparse Bayesian Generative Modeling for Compressive Sensing"! The repository might be extended in the future.
 
-The code will be uploaded during the week of December 16-22.
+Source code of the paper 
+>B. Böck, S. Syed, and W. Utschick,
+>"Sparse Bayesian Generative Modeling for Compressive Sensing," in IEEE Wireless Communications Letters, 2024.
+<br>
+Link to the paper: https://ieeexplore.ieee.org/document/10705115
+
 
 ## Abstract
 
-In our work, we combine the sparsity-promoting properties from classical dictionary-based compressive sensing with generative modeling to improve machine learning-aided compressive sensing and reduce the requirements on the quality and size of the training data. 
+This work addresses the fundamental linear inverse problem in compressive sensing (CS) by introducing a new type of regularizing generative prior. Our proposed method utilizes ideas from classical dictionary-based CS and, in particular, sparse Bayesian learning (SBL), to integrate a strong regularization towards sparse solutions. At the same time, by leveraging the notion of conditional Gaussianity, it also incorporates the adaptability from generative models to training data. However, unlike most state-of-the-art generative models, it is able to learn from a few compressed and noisy data samples and requires no optimization algorithm for solving the inverse problem. Additionally, similar to Dirichlet prior networks, our model parameterizes a conjugate prior enabling its application for uncertainty quantification. We support our approach theoretically through the concept of variational inference and validate it empirically using different types of compressible signals. 
 
-## Usage
-
--
+## Requirements
+The code is tested with `Python 3.10` and `pytorch-cuda 12.1`.
 
 ## Citation
 If you are using this code for your research, please cite
+
+## Instructions
+The file `main_example_MNIST.ipynb` is a jupyter notebook which should make it easier to familiarise yourself with the code. The directory `modules` contains our proposed CSVAE and CSGMM implementations as well as the baselines SBL and LASSO. In `utils` you find some auxiliary functions for, e.g., generating the dictionary. In the directory `data` you can download or copy your data. 
 
 ```bibtex
 
