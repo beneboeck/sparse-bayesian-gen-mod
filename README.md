@@ -36,6 +36,7 @@ If you are using this code for your research, please cite
  year = {2024}
 }
 
+```
 ## Licence of Contributions
 This code is covered by the BSD 3-Clause License:
 
