@@ -25,9 +25,46 @@ If you are using this code for your research, please cite
 ```bibtex
 
 @inproceedings{boeck2024sparse,
-	title={Sparse {B}ayesian Generative Modeling for Compressive Sensing},
-	author={Benedikt B{\"o}ck and Sadaf Syed and Wolfgang Utschick},
-	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-	year={2024},
-	url={https://openreview.net/forum?id=GqefKjw1OR}
+ author = {B\"{o}ck, Benedikt and Syed, Sadaf and Utschick, Wolfgang},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {4629--4659},
+ publisher = {Curran Associates, Inc.},
+ title = {Sparse Bayesian Generative Modeling for Compressive Sensing},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/0857833a490eff6b49ce43eba1d01e8e-Paper-Conference.pdf},
+ volume = {37},
+ year = {2024}
 }
+
+## Licence of Contributions
+This code is covered by the BSD 3-Clause License:
+
+> BSD 3-Clause License
+>
+> Copyright (c) 2023 Benedikt Böck.
+> All rights reserved.
+>
+> Redistribution and use in source and binary forms, with or without
+>modification, are permitted provided that the following conditions are met:
+>
+> * Redistributions of source code must retain the above copyright notice, this
+>  list of conditions and the following disclaimer.
+>
+> * Redistributions in binary form must reproduce the above copyright notice,
+>  this list of conditions and the following disclaimer in the documentation
+>  and/or other materials provided with the distribution.
+>
+> * Neither the name of the copyright holder nor the names of its
+>  contributors may be used to endorse or promote products derived from
+>  this software without specific prior written permission.
+>
+> THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+> AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+> IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+> DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+> FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+> DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+> SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+> CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+> OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+> OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
