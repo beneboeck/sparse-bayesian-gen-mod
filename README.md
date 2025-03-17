@@ -6,7 +6,8 @@ Source code of the paper
 >"Sparse Bayesian Generative Modeling for Compressive Sensing," in Advances in
 Neural Information Processing Systems, vol. 38, 2024.
 <br>
-Link to the paper: https://openreview.net/forum?id=GqefKjw1OR
+Link to the paper (Openreview): https://openreview.net/forum?id=GqefKjw1OR
+Link to the paper (NeurIPS Proceedings): https://proceedings.neurips.cc/paper_files/paper/2024/hash/0857833a490eff6b49ce43eba1d01e8e-Abstract-Conference.html
 
 
 ## Abstract
