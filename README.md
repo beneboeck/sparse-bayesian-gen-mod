@@ -40,9 +40,9 @@ If you are using this code for your research, please cite
 
 ```
 ## Licence of Contributions
-This code is covered by the BSD 3-Clause License:
+This code is covered by the following BSD 3-Clause License:
 
-> BSD 3-Clause License
+> BSD 3-Clause License (Non-Commercial)
 >
 > Copyright (c) 2023 Benedikt Böck.
 > All rights reserved.
@@ -60,6 +60,10 @@ This code is covered by the BSD 3-Clause License:
 > * Neither the name of the copyright holder nor the names of its
 >  contributors may be used to endorse or promote products derived from
 >  this software without specific prior written permission.
+>
+>  **Commercial use of this software, including but not limited to use in products,
+   services, or for-profit research, is strictly prohibited without explicit
+   written permission from the copyright holder.**
 >
 > THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 > AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
